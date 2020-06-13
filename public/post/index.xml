@@ -27,6 +27,21 @@ plot(mtcars)
     </item>
     
     <item>
+      <title>Test RMD File</title>
+      <link>/post/test-rmd-file/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/test-rmd-file/</guid>
+      <description>
+
+
+&lt;div id=&#34;test-rmd-file&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;TEST RMD FILE&lt;/h2&gt;
+&lt;p&gt;That’s it.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
